@@ -1,5 +1,4 @@
-# Consultas SQL + Análisis lógico con Python
-
+# Consultas SQL + Análisis lógico con Python 
 ¡Bienvenido/a al Instituto Global de la Vida (IGV)! Este centro ficticio monitorea ecosistemas alrededor del planeta para proteger la biodiversidad, entender patrones en la observación de especies y tomar decisiones con base en datos reales.
 
 En tu nuevo rol como analista de datos junior, vas a recibir acceso a una base con información histórica y actual sobre:
